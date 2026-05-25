@@ -7,6 +7,8 @@
 >Zetian Mi, Shuaiyong Jiang, Yuanyuan Li, Guanxi Li, Jiqing Zhang, Huibing Wang, Xianping Fu  
 >
 >You can find our paper on ([IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/document/11458694))
+## Requirement
+Opencv-python, torch. The requirement.txt has been added.
 
 ## Results
 You can download our results and pre-weighted models on  [Baidu Netdisk](https://pan.baidu.com/s/1Yl4mxyDs0DImSFpnticSMA?pwd=0209).
