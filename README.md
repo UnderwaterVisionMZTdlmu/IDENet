@@ -8,12 +8,15 @@
 >
 >You can find our paper on ([IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/document/11458694))
 
-## Code
-Code will be released soon.
+## Testing
+1. Clone the repo
+2. Download the checkpoint: [Baidu Netdisk](https://pan.baidu.com/s/1Yl4mxyDs0DImSFpnticSMA?pwd=0209)
+3. Put the inputs to corresponding folders (raw and depth images)
+4. Python infer.py (set "--checkpoint"to the path of the checkpoint, "--rgb_dir" to the path of the raw images, "--depth_dir" to the path of the depth images, "--output_dir" to the path of the output folder)
+5. Find the result in "--output_dir"
 
 ## Results
-You can download our results and pre-weighted models on  [Baidu Netdisk](https://pan.baidu.com/s/1Yl4mxyDs0DImSFpnticSMA?pwd=0209).
-
+You can download our results and pre-weighted models on [Baidu Netdisk](https://pan.baidu.com/s/1Yl4mxyDs0DImSFpnticSMA?pwd=0209).
 
 ## Citation
 If you find this work useful, please cite:
